@@ -1,0 +1,34 @@
+[
+  {
+    "ephemeral_mode": 0,
+    "id": "gngadipbljmmcgcjjflidckpbgebnhod",
+    "kiosk_app_id": "gngadipbljmmcgcjjflidckpbgebnhod",
+    "type": 1
+  },
+  {
+    "ephemeral_mode": 0,
+    "id": "hblfbmjdaalalhifaajnnodlkiloengc",
+    "kiosk_app_id": "hblfbmjdaalalhifaajnnodlkiloengc",
+    "type": 1
+  },
+  {
+    "ephemeral_mode": 0,
+    "id": "mdmkkicfmmkgmpkmkdikhlbggogpicma",
+    "kiosk_app_id": "mdmkkicfmmkgmpkmkdikhlbggogpicma",
+    "type": 1
+  },
+  {
+    "ephemeral_mode": 0,
+    "id": "omkghcboodpimaoimdkmigofhjcpmpeb",
+    "kiosk_app_id": "omkghcboodpimaoimdkmigofhjcpmpeb",
+    "type": 1
+  },
+  {
+    "ephemeral_mode": 2,
+    "id": "https://bluebook-chromebook.app.collegeboard.org/",
+    "type": 4,
+    "web_kiosk_icon_url": "https://bluebook-chromebook.app.collegeboard.org/bluebook-192x192.84fdf16a.png",
+    "web_kiosk_title": "Bluebook",
+    "web_kiosk_url": "https://bluebook-chromebook.app.collegeboard.org/"
+  }
+]

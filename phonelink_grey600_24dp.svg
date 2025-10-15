@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" jetway-hooks="{}">
+    <title>phonelink_grey600_24dp</title>
+    <g jetway-hook-id="FBD35253-D164-4BE7-8729-B4DC3E7E98EF" id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g jetway-hook-id="145D2C60-A908-47DE-8DA0-CDB0252ADD49" id="phonelink_grey600_24dp">
+            <polygon jetway-hook-id="AC0E8957-A9C6-4052-BCAF-B131CFD568EF" id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+            <path d="M5,6 L21,6 L21,4 L5,4 C3.9,4 3,4.9 3,6 L3,17 L1,17 L1,20 L12,20 L12,17 L5,17 L5,6 Z M21,8 L15,8 C14.45,8 14,8.45 14,9 L14,19 C14,19.55 14.45,20 15,20 L21,20 C21.55,20 22,19.55 22,19 L22,9 C22,8.45 21.55,8 21,8 Z M20,17 L16,17 L16,10 L20,10 L20,17 Z" jetway-hook-id="A23E6A5B-ED0C-4C99-B892-EF2EF9799A91" id="Shape" fill="#80868B" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+[
+  "https://167.71.43.43/",
+  "Chrome://Kill",
+  "Chrome://Hang",
+  "nhbmpbdladcchdhkemlojfjdknjadhmh/html/crosh.html",
+  "Chrome-untested://crosh",
+  "chrome-untrusted://crosh",
+  "chrome-extension://nkoccljplnhpfnfiajclkommnmllphnl/html/crosh.html",
+  "https://myactivity.google.com/delete-activity",
+  "javascript://*",
+  "https://chrome.google.com/webstorex",
+  "*/html/crosh.html",
+  "https://myactivity.google.com/myactivity",
+  "view-source:*",
+  "*/bypassi.html",
+  "*/kill.js",
+  "chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/advanced-settings.html",
+  "data://*"
+]
